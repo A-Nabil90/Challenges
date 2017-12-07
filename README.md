@@ -1,0 +1,2 @@
+# Challenges
+JavaScript simple challenges 
